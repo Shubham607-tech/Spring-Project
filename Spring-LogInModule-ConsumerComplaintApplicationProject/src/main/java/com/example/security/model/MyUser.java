@@ -13,7 +13,9 @@ public class MyUser {
 	@ApiModelProperty("This is user id property")
 	private int id;
 	@ApiModelProperty("This is user name property")
+	@NotEmpty(message="Username is Mandatory")
 	private String name;
+	@NotEmpty(message="Password is Mandatory")
 	@ApiModelProperty("This is user password property")
 	private String password;
 	@ApiModelProperty("This is user activated property")
