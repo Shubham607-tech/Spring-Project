@@ -11,7 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>Spring-Security-3</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Spring-Security-3</name>
+	<name>Sport Application</name>
 	<description>Spring DATA JPA Security</description>
 	<properties>
 		<java.version>1.8</java.version>
