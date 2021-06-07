@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>Spring-Security-3</artifactId>
+	<artifactId>Edutech Application</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Spring-Security-3</name>
 	<description>Spring DATA JPA Security</description>
